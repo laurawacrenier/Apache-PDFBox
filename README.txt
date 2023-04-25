@@ -99,3 +99,6 @@ The following provides more details on the included cryptographic software:
 
     Apache PDFBox uses the Java Cryptography Architecture (JCA) and the
     Bouncy Castle libraries for handling encryption in PDF documents.
+    
+    
+    ---
