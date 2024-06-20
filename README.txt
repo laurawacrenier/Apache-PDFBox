@@ -101,4 +101,4 @@ The following provides more details on the included cryptographic software:
     Bouncy Castle libraries for handling encryption in PDF documents.
     
     
-    ---
+   
